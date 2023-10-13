@@ -8,7 +8,8 @@
 #include <assert.h>
 #include <unistd.h>
 
-#define TAILLE 20
+
+#define TAILLE 19
 
 
 typedef struct {
